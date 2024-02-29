@@ -30,7 +30,7 @@ $ go run main.go
 ```
 2. Executar a partir do executável:
 ```bash
-$ ./mcronalds.exe
+$ ./smartorders.exe
 ```
 
 ## Requisitos
