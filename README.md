@@ -1,4 +1,5 @@
-# Sistema de Gestão de Pedidos em GoLang
+# SmartOrders
+Sistema de Gestão de Pedidos em GoLang
 
 Este é um sistema de gestão de pedidos desenvolvido em GoLang, que oferece uma interface de linha de comando (CLI) para interação. O sistema é projetado para eficiência e simplicidade, utilizando diversos métodos de estrutura de dados para otimização.
 
