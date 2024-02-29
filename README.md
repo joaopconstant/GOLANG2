@@ -44,4 +44,4 @@ Sinta-se à vontade para contribuir com melhorias para este projeto. Para sugest
 
 ## Licença
 
-Este projeto é licenciado sob a Licença MIT. 
+Este projeto é distribuído sob a licença [MIT](LICENSE), o que significa que você pode usá-lo livremente, inclusive para fins comerciais, desde que mantenha o aviso de direitos autorais.
